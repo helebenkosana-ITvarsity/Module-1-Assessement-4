@@ -1,0 +1,35 @@
+h1{
+    color: green;
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: coral;
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+}
+
+h3{
+    font-family: Comic Sans, Comic Sans, MS, cursive;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: none;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: salmon;
+}
+
+th{
+    font-weight: 800;
+    background-color: salmon;
+    color: #ffffff
+}
